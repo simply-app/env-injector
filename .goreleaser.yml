@@ -22,5 +22,5 @@ archives:
       - LICENSE
 release:
   github:
-    owner: okabe-masashi1
+    owner: simply-app
     name: env-injector
